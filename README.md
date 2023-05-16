@@ -4,7 +4,7 @@
 **Autor**:  Dalton Emilio Enríquez Romero 
 
 
-**Fecha**:  Mayo 2023
+**Fecha**:  Mayo del 2023
 
 
 **Grado en Técnicas de Interacción Digital y Multimedia**
@@ -97,3 +97,11 @@ En conclusión, a través de las gafas de Manovich, vemos a Audiotool como un es
 * Wikipedia AudioTool https://en.wikipedia.org/wiki/Audiotool
 * Xataka https://www.xataka.com/videojuegos/indies-tenian-razon-unity-motores-terceros-le-han-ganado-partida-a-motores-propios-a-hora-crear-juegos-1
 * AudioTool https://www.audiotool.com/product
+* Imagen https://www.freepik.es/autor/macrovector
+
+---
+
+Licencia: Material Creative Commons Atribución 4.0 Internacional  (CC BY 4.0)
+
+
+
